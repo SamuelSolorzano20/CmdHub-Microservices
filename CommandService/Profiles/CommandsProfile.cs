@@ -1,7 +1,8 @@
 using AutoMapper;
+using CommandService.Dtos;
 using CommandService.models;
 
-namespace CommandService.Dtos;
+namespace CommandService.Profiles;
 
 public class CommandsProfile : Profile
 {
