@@ -72,7 +72,7 @@ public class PlatformsController : Controller
         // Send Async message
         try
         {
-            var platformPublishedDto = _mapper.Map<PlatformPublishedDto>(req);
+            var platformPublishedDto = _mapper.Map<PlatformPublishedDto>(response);
             platformPublishedDto.Event = "Platform_Published";
 
             _messageBusClient.PublishNewPlatform(platformPublishedDto);
