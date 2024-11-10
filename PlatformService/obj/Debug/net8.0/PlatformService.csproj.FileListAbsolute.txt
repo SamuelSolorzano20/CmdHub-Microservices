@@ -138,3 +138,4 @@ C:\Code\Microservices\lessjackson-microservices-course\PlatformService\obj\Debug
 C:\Code\Microservices\lessjackson-microservices-course\PlatformService\obj\Debug\net8.0\PlatformService.pdb
 C:\Code\Microservices\lessjackson-microservices-course\PlatformService\obj\Debug\net8.0\PlatformService.genruntimeconfig.cache
 C:\Code\Microservices\lessjackson-microservices-course\PlatformService\obj\Debug\net8.0\ref\PlatformService.dll
+C:\Code\Microservices\lessjackson-microservices-course\PlatformService\bin\Debug\net8.0\RabbitMQ.Client.dll
